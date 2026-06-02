@@ -3798,5 +3798,37 @@
     "pageUrl": "https://evwbr.github.io/rj/p/rjmulti_464d7a482b32c562126e6ba15f785c37a1550e99/",
     "usedAt": 1780358569187,
     "usedAtIso": "2026-06-02T00:02:49.187Z"
+  },
+  "source:4819af05849de9951510d190fff919e7a34d2d2c": {
+    "url": "https://diariodorio.com/flavio-bolsonaro-encomenda-pesquisa-para-definir-substituto-de-castro-ao-senado",
+    "title": "Flávio Bolsonaro encomenda pesquisa para definir substituto de Castro ao Senado",
+    "guid": "rjmulti:001fe991c3c493d24084b3dedef6782ce0e4552a",
+    "pageUrl": "https://evwbr.github.io/rj/p/rjmulti_001fe991c3c493d24084b3dedef6782ce0e4552a/",
+    "usedAt": 1780362168604,
+    "usedAtIso": "2026-06-02T01:02:48.604Z"
+  },
+  "source:eea69f237a10cb2c74af06eaa91f9934fc559fe4": {
+    "url": "https://diariodorio.com/crise-na-portosrio-expoe-disputa-interna-sobre-compra-de-imovel-em-sao-joao-da-barra",
+    "title": "Crise na PortosRio expõe disputa interna sobre compra de imóvel em São João da Barra",
+    "guid": "rjmulti:e027f22c15943c37b455717fabe2581b09d8ba2f",
+    "pageUrl": "https://evwbr.github.io/rj/p/rjmulti_e027f22c15943c37b455717fabe2581b09d8ba2f/",
+    "usedAt": 1780362168604,
+    "usedAtIso": "2026-06-02T01:02:48.604Z"
+  },
+  "source:77106171eff1e91444d1e95f7ef8d353f8f54c02": {
+    "url": "https://diariodorio.com/pendotiba-inicia-operacao-no-corredor-charitas-leblon-com-onibus-novos-nas-linhas-740d-e-2740",
+    "title": "Pendotiba inicia operação no corredor Charitas-Leblon com ônibus novos nas linhas 740D e 2740",
+    "guid": "rjmulti:34187a0510347a73f7baf66b4d3f128f2c685f08",
+    "pageUrl": "https://evwbr.github.io/rj/p/rjmulti_34187a0510347a73f7baf66b4d3f128f2c685f08/",
+    "usedAt": 1780362168604,
+    "usedAtIso": "2026-06-02T01:02:48.604Z"
+  },
+  "source:6d47f3e02516dc83735b177b1694c02e5ec7780b": {
+    "url": "https://diariodorio.com/maratona-de-beach-tennis-em-copacabana-bate-recorde-com-551-atletas",
+    "title": "Maratona de Beach Tennis em Copacabana bate recorde com 551 atletas",
+    "guid": "rjmulti:f525176b8019dc393138b808d9e27ec25aa3deb7",
+    "pageUrl": "https://evwbr.github.io/rj/p/rjmulti_f525176b8019dc393138b808d9e27ec25aa3deb7/",
+    "usedAt": 1780362168604,
+    "usedAtIso": "2026-06-02T01:02:48.604Z"
   }
 }
