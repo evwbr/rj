@@ -8,21 +8,23 @@
 <atom:link href="https://evwbr.github.io/rj/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rj/</link>
 <description>Notícias do Rio de Janeiro (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sat, 18 Jul 2026 07:04:48 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 14:04:50 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Rio de Janeiro institui programa para ampliar oferta de exames ginecológicos gratuitos]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_91baf49dedfab3f5a7ff65617ac55dbe8ed903a3/</link>
+<title><![CDATA[Pagamento do estacionamento rotativo no Rio passa a ser totalmente digital]]></title>
+<link>https://evwbr.github.io/rj/p/rjmulti_877b6bca2790a36b55ee3bedd917001f1d954acd/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 18 Jul 2026 06:28:40 GMT</pubDate>
+<pubDate>Sat, 18 Jul 2026 13:42:05 GMT</pubDate>
 <category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:91baf49dedfab3f5a7ff65617ac55dbe8ed903a3]]></guid>
-<description><![CDATA[O Rio de Janeiro lançou um programa para garantir acesso universal e gratuito a exames ginecológicos em clínicas públicas especializadas em todo o estado.]]></description>
+<guid isPermaLink="false"><![CDATA[rjmulti:877b6bca2790a36b55ee3bedd917001f1d954acd]]></guid>
+<description><![CDATA[A Prefeitura do Rio de Janeiro lançou o Rio Rotativo Digital, sistema que substitui os talões de papel pelo aplicativo Jaé, disponível inicialmente em 903 vagas na Lagoa Rodrigo de Freitas.]]></description>
 <content:encoded><![CDATA[
-<p>A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou o Projeto de Lei 11.281/26, que foi sancionado pelo Poder Executivo e publicado no Diário Oficial nesta quinta-feira (16).</p>
-<p>O projeto institui o Programa de Ampliação da Oferta de Exames nas Clínicas Públicas Especializadas na Saúde da Mulher, com o objetivo de garantir o acesso universal e gratuito a exames ginecológicos em todo o território fluminense.</p>
-<p>O programa prioriza exames como Papanicolau, colposcopia, ultrassonografia pélvica e mamografia, além de oferecer consultas médicas especializadas voltadas à prevenção, diagnóstico precoce e tratamento de doenças ginecológicas.</p>
-<p>As despesas para a implementação da medida serão financiadas com recursos do Fundo Estadual de Saúde (FES).</p>
+<p>O pagamento do estacionamento rotativo nas ruas do Rio de Janeiro agora é feito exclusivamente de forma digital. A Prefeitura implantou o Rio Rotativo Digital, integrado ao aplicativo Jaé, eliminando o uso dos antigos talões de papel.</p>
+<p>Nesta primeira fase, o sistema está disponível em 903 vagas na Lagoa Rodrigo de Freitas, funcionando diariamente das 7h às 23h. Para facilitar o uso, foi elaborado um guia com o passo a passo para os motoristas.</p>
+<p>O primeiro passo é baixar ou atualizar o aplicativo Jaé, disponível para Android e iOS, pois a opção "Rio Rotativo" só aparece na tela inicial com o app instalado. Ao abrir o aplicativo, o usuário deve acessar a aba "Rio Rotativo" na página inicial.</p>
+<p>Antes de realizar o pagamento, é necessário cadastrar o veículo, procedimento feito uma única vez para ser utilizado nas próximas operações. Após estacionar, o motorista deve conferir se o endereço exibido no aplicativo corresponde exatamente ao local onde o carro está parado.</p>
+<p>Com a localização confirmada, o usuário escolhe o tempo de permanência, que pode ser de 2, 4 ou 6 horas, sendo este o tempo máximo permitido.</p>
+<p>Após a operação, o aplicativo confirma o pagamento e informa o tempo restante na vaga. O motorista recebe uma notificação cerca de 10 minutos antes do vencimento do período contratado. Depois desse prazo, é obrigatório retirar o veículo e aguardar pelo menos uma hora antes de estacionar novamente na mesma área.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
