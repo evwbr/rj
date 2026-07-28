@@ -2,29 +2,34 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - RJ (Diário do Rio)</title>
 <atom:link href="https://evwbr.github.io/rj/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rj/</link>
 <description>Notícias do Rio de Janeiro (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Tue, 28 Jul 2026 13:05:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 14:49:42 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Preço do seguro de carro pode dobrar]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_9e08832c0a5361fe10f15b0d5f92a9c3d0f08c8c/</link>
+<title><![CDATA[PSDB-Cidadania anuncia Eduardo Paes e Pedro Paulo como candidatos no Rio de Janeiro para 2026]]></title>
+<link>https://evwbr.github.io/rj/p/rjmulti_b9856cfac55635d19815f7d6b60d356a9fa9bb96/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 17:13:23 GMT</pubDate>
+<pubDate>Tue, 28 Jul 2026 14:37:01 GMT</pubDate>
 <category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:9e08832c0a5361fe10f15b0d5f92a9c3d0f08c8c]]></guid>
-<description><![CDATA[O custo do seguro de automóveis varia até 100% entre diferentes áreas da cidade do Rio de Janeiro.]]></description>
+<guid isPermaLink="false"><![CDATA[rjmulti:b9856cfac55635d19815f7d6b60d356a9fa9bb96]]></guid>
+<description><![CDATA[O PSDB-Cidadania definiu Eduardo Paes como candidato a governador e Pedro Paulo como candidato ao Senado nas eleições de 2026 no Rio de Janeiro.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F07%2FWhatsApp-Image-2026-07-26-at-12.48.51-e1785249403552.jpeg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F07%2FWhatsApp-Image-2026-07-26-at-12.48.51-e1785249403552.jpeg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F07%2FWhatsApp-Image-2026-07-26-at-12.48.51-e1785249403552.jpeg"/>
 <content:encoded><![CDATA[
-<p>Em junho, o índice do preço do seguro de carro variou de 3,7% na Zona Sul a 7,4% na Zona Oeste do Rio de Janeiro, representando uma diferença de 100%. Os dados fazem parte do IPSA + IPSM — Índice de Preço do Seguro de Automóvel e Moto, desenvolvido pela TEx, empresa da Serasa Experian.</p>
-<p>Na Zona Sudoeste, o índice foi de 5,5% para carros e 11,1% para motos. Já na Zona Norte, os percentuais chegaram a 7% para carros e 13,2% para motos. O maior índice para seguro de motos na cidade foi registrado no Centro, com 13,9%.</p>
-<p>A Região Metropolitana do Rio de Janeiro também liderou o levantamento, com índice de 5,9% para seguro de carros e 11,4% para motos em junho. Em comparação com a Região Metropolitana de Curitiba, que apresentou os menores índices entre as nove áreas analisadas, a diferença foi de 118,5% no seguro de carros e 37,3% no seguro de motos.</p>
-<p>Mesmo dentro da capital, a localização continua sendo uma das variáveis mais relevantes para o cálculo do risco.</p>
-<p>No cenário nacional, os índices do seguro de automóveis e motos recuaram em junho em relação a maio. O IPSM, que mede o preço do seguro de motos, caiu de 8,9% para 8,5%. Apesar da redução mensal, ambos os indicadores permanecem abaixo dos níveis registrados em junho do ano anterior.</p>
-<p>O levantamento também aponta maior presença de veículos híbridos e elétricos nas cotações. Em junho de 2026, os modelos a gasolina representaram 79,3% do volume total, os híbridos 6,9% e os elétricos 10,2%. Entre veículos com até dois anos de uso, os híbridos tiveram o menor índice de seguro, com 2,7%.</p>
+<p>O PSDB-Cidadania definiu Eduardo Paes como candidato a governador e Pedro Paulo como candidato ao Senado nas eleições de 2026 no Rio de Janeiro.</p>
+<p>O PSDB-Cidadania confirmou Eduardo Paes, de 55 anos, como candidato a governador do Rio de Janeiro para as eleições de 2026. Pedro Paulo foi escolhido para concorrer ao Senado pelo mesmo partido.</p>
+<p>Além das candidaturas majoritárias, o partido divulgou a lista completa dos candidatos a deputado federal pelo Rio de Janeiro. A relação inclui nomes como Sargento Calvete, Júnior Paixão, Albino Batista, Alessandra Oliveira, Alessandro Mutante e Alexandre Inocêncio.</p>
+<p>Outros candidatos destacados são Major Cláudio Bombeiro, Professora Aline Pires, André Martins, Antônio França, Augusto de Carvalho, Bruna Mello, Tio Carlos e Carlinhos Vieira, conhecido como The Best 16.</p>
+<p>A lista também conta com nomes como Fiscal do Povo, Chris da Quatro Patinhas, Cinthia Castilho, César Almeida, Da Glória, Dani Leal, Dani do Povo, Diego Alba, Diogo Ventura e Salgadinho do Frete.</p>
+<p>Entre os demais candidatos estão Eliezer Rocha, Etienne Ciminelli, Fabinho Câmara, Fábio Soares, Felipe dos Aposentados, Filipe RR Soares, Júnior Falcão, Chiquinho do Pandeiro, Dra.</p>
+<p>O grupo ainda inclui Sargento Gustavo, Helem Cristina, Ivan do Valle, Jorge Tavares, Dr. Henrique Paes, Jussie da Cesta Básica, Júlio Guerreiro, Laura da Saúde, Léo Vieira Filho, Luiz Martins, Manoel Sales, Marcelino D'Almeida, Lessa, Marcelo da Construção, Doutora Márcia Valéria, Águeda Moura, Maria da Penha, Maria Helena Cabo, Regina Pedregal, Marilena da Saúde, Comissário Márcio Garcia, O Pracinha Renato Nascimento, Ricardo da Karol, Rodrigo Dinamite, Sandra Aleixo, Sandrinho Abdala, Sandro Alves, Serginho Legado, Professora Sônia, Thiago Moura, Neto Bronson, Vandete Soares, Vandro Família, Guarda Gaby, Professora Vera e Vera Ramos.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
