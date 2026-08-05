@@ -9,83 +9,43 @@
 <atom:link href="https://evwbr.github.io/rj/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rj/</link>
 <description>Notícias do Rio de Janeiro (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Wed, 05 Aug 2026 20:49:56 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 21:49:09 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Peitoral inteligente desenvolvido por alunos do Rio monitora ansiedade em cães]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_bcd741159a2dab243f0a7e51efe648856d83c561/</link>
+<title><![CDATA[Alerj vota projeto que proíbe instalação de hidrômetros externos sem consentimento do morador]]></title>
+<link>https://evwbr.github.io/rj/p/rjmulti_ef268583e9c17c38427dcdbb86bb559bf5a7d5e8/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 05 Aug 2026 20:45:12 GMT</pubDate>
+<pubDate>Wed, 05 Aug 2026 20:59:37 GMT</pubDate>
 <category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:bcd741159a2dab243f0a7e51efe648856d83c561]]></guid>
-<description><![CDATA[Alunos da Escola Técnica Estadual Henrique Lage criaram um peitoral capaz de monitorar sinais de ansiedade em cães e enviar dados para um aplicativo, apresentado no Rio Innovation Week 2026.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FDSC_0483-1024x683.jpg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FDSC_0483-1024x683.jpg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FDSC_0483-1024x683.jpg"/>
+<guid isPermaLink="false"><![CDATA[rjmulti:ef268583e9c17c38427dcdbb86bb559bf5a7d5e8]]></guid>
+<description><![CDATA[A Assembleia Legislativa do Estado do Rio de Janeiro vota projeto que impede concessionárias de água de instalarem hidrômetros fora dos imóveis sem autorização dos moradores.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2025%2F03%2FHidrometro.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2025%2F03%2FHidrometro.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2025%2F03%2FHidrometro.jpg"/>
 <content:encoded><![CDATA[
-<p>Alunos da Escola Técnica Estadual Henrique Lage criaram um peitoral capaz de monitorar sinais de ansiedade em cães e enviar dados para um aplicativo, apresentado no Rio Innovation Week 2026.</p>
-<p>O projeto consiste em um peitoral inteligente que monitora sinais associados à ansiedade em cães e transmite as informações para um aplicativo acessado pelo tutor.</p>
-<p>Batizado de "Peitoral de Monitoramento e Alívio da Ansiedade em Cães", o equipamento foi criado pelos alunos Caio Dias Arrais e Gabriel Nascimento de Aguiar, sob orientação do professor Altair Martins dos Santos. A iniciativa surgiu para enfrentar situações que afetam o comportamento dos animais, especialmente em ambientes urbanos.</p>
-<p>O peitoral conta com sensores que captam em tempo real parâmetros como frequência cardíaca, movimentação, tremores e níveis de agitação do cão. Esses dados são processados e enviados ao aplicativo, permitindo que o responsável acompanhe o estado do animal e receba alertas em caso de alterações nos sinais monitorados.</p>
-<p>Além da identificação dos sintomas, o projeto inclui uma forma de intervenção: pequenos motores instalados no peitoral produzem vibrações suaves para proporcionar sensação de aconchego ao animal. O acionamento dessas vibrações pode ser feito pelo aplicativo ou recomendado automaticamente pelo sistema com base nas informações captadas.</p>
-<p>Os testes iniciais do equipamento serão realizados em bancada, sem contato com animais, para avaliar o funcionamento dos sensores, a comunicação entre os componentes, o aplicativo e os motores. A etapa com cães só ocorrerá após autorização da Comissão de Ética no Uso de Animais (CEUA), consentimento dos tutores e acompanhamento veterinário.</p>
-<p>O peitoral inteligente demonstra como iniciativas escolares podem ultrapassar o ambiente acadêmico e ganhar espaço em eventos de inovação.</p>
+<p>A Assembleia Legislativa do Estado do Rio de Janeiro vota projeto que impede concessionárias de água de instalarem hidrômetros fora dos imóveis sem autorização dos moradores.</p>
+<p>A proposta determina que a decisão sobre a localização dos medidores em áreas externas seja exclusiva do morador, eliminando a imposição arbitrária das concessionárias. Além disso, o projeto exige que os aparelhos estejam posicionados em locais de fácil visibilidade e acesso, garantindo transparência na leitura realizada pelos leituristas.</p>
+<p>Para evitar o descumprimento da norma, o texto prevê punições rigorosas às empresas infratoras. Em caso de reincidência, as concessionárias estarão sujeitas a multas progressivas que variam de 1.000 a 10.000 UFIR-RJ, correspondendo a valores entre R$ 4.960,00 e R$ 49.600,00.</p>
+<p>Além das multas, o projeto prevê a aplicação das penalidades previstas no Código de Defesa do Consumidor (CDC), ampliando as sanções contra as concessionárias que desrespeitarem as regras estabelecidas.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Antônio Carlos Gusmão assume presidência da Comissão Estadual de Controle Ambiental no Rio de Janeiro]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_a822a3f4d7ea2b087c153ab171f177f11a24dd2b/</link>
+<title><![CDATA[Técnico Franclim Carvalho descarta Botafogo como candidato ao título do Brasileirão 2026]]></title>
+<link>https://evwbr.github.io/rj/p/rjmulti_e9c7e040ac096de129a8f6f8464274b87cbcea5e/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 05 Aug 2026 20:40:19 GMT</pubDate>
+<pubDate>Wed, 05 Aug 2026 20:46:58 GMT</pubDate>
 <category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:a822a3f4d7ea2b087c153ab171f177f11a24dd2b]]></guid>
-<description><![CDATA[O Governo do Estado do Rio de Janeiro nomeou Antônio Carlos Gusmão para presidir a Comissão Estadual de Controle Ambiental, vinculada à Secretaria de Estado do Ambiente e Sustentabilidade.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAntonio-Carlos-Gusmao-CECA-e1785962285437.jpeg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAntonio-Carlos-Gusmao-CECA-e1785962285437.jpeg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAntonio-Carlos-Gusmao-CECA-e1785962285437.jpeg"/>
+<guid isPermaLink="false"><![CDATA[rjmulti:e9c7e040ac096de129a8f6f8464274b87cbcea5e]]></guid>
+<description><![CDATA[O treinador do Botafogo afirmou que a equipe não tem condições reais de disputar o título do Campeonato Brasileiro neste ano.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Ffranclim-carvalho-botafogo-espaco-lonier.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Ffranclim-carvalho-botafogo-espaco-lonier.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Ffranclim-carvalho-botafogo-espaco-lonier.jpg"/>
 <content:encoded><![CDATA[
-<p>O Governo do Estado do Rio de Janeiro nomeou Antônio Carlos Gusmão para presidir a Comissão Estadual de Controle Ambiental, vinculada à Secretaria de Estado do Ambiente e Sustentabilidade.</p>
-<p>Ao longo da trajetória profissional, Gusmão atuou em diferentes setores dos órgãos ambientais estaduais, incluindo dez anos dedicados ao atendimento de emergências ambientais. Além disso, ele é professor na UniAmbiente, onde contribui para a formação e capacitação técnica de servidores públicos estaduais.</p>
-<p>Sua formação inclui cursos internacionais de controle da poluição realizados no Japão e na Alemanha, o que reforça sua expertise na área ambiental.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Baleia-franca é flagrada com rede de pesca na cabeça e boca no Arpoador, Rio de Janeiro]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_ead4823dee7a07b69885678b6504eac63fd4d348/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 05 Aug 2026 20:08:45 GMT</pubDate>
-<category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:ead4823dee7a07b69885678b6504eac63fd4d348]]></guid>
-<description><![CDATA[Uma baleia-franca foi registrada nadando ao lado do filhote com uma rede de pesca presa na cabeça e na boca nas águas do Arpoador, na Zona Sul do Rio de Janeiro.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-17.05.58.jpeg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-17.05.58.jpeg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-17.05.58.jpeg"/>
-<content:encoded><![CDATA[
-<p>Uma baleia-franca foi registrada nadando ao lado do filhote com uma rede de pesca presa na cabeça e na boca nas águas do Arpoador, na Zona Sul do Rio de Janeiro.</p>
-<p>A fotógrafa Emma Monteiro da Rocha capturou a imagem durante um passeio de observação de baleias a bordo de um veleiro.</p>
-<p>Esse comportamento costeiro contribuiu para que a espécie fosse intensamente caçada no passado, o que explica sua condição de vulnerabilidade até os dias atuais. Durante o inverno e a primavera, as baleias-francas migram para a costa brasileira em busca de áreas adequadas para reprodução, concentrando-se principalmente no litoral de Santa Catarina.</p>
-<p>A presença desses animais na costa do Rio de Janeiro é considerada incomum. Enquanto a baleia-franca aparece raramente no estado, as baleias-jubarte já fazem parte da paisagem do litoral fluminense nesta época do ano.</p>
-<p>Com a chegada do inverno, as jubartes voltam a ser vistas próximas à costa, atraindo a atenção de moradores, turistas e embarcações dedicadas ao turismo de observação. A passagem das jubartes pelo Rio de Janeiro integra uma das maiores migrações do planeta.</p>
-<p>Esses animais deixam as águas geladas da Antártida e percorrem cerca de 9 mil quilômetros até o Arquipélago de Abrolhos, no sul da Bahia, onde encontram condições favoráveis para acasalamento e nascimento dos filhotes. Embora o litoral fluminense não seja o destino final dessa viagem, ele desempenha papel fundamental como corredor migratório.</p>
-<p>Todos os anos, milhares de baleias atravessam a costa do estado durante o deslocamento, tornando o Rio de Janeiro um dos principais pontos de observação da espécie no país. A localização estratégica da costa fluminense permite acompanhar a passagem das baleias sem interferir em sua rota migratória, proporcionando um espetáculo natural que se repete a cada temporada de inverno.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Rocka Fish será inaugurado em Geribá com espaço quatro vezes maior que o antigo Rocka]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_6ccf7e6487591fe61c3afb9d5d8818234e8d5ee2/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 05 Aug 2026 17:35:21 GMT</pubDate>
-<category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:6ccf7e6487591fe61c3afb9d5d8818234e8d5ee2]]></guid>
-<description><![CDATA[O restaurante Rocka, do chef Gustavo Rinckevich, será reaberto em cerca de dois meses na Praia de Geribá, em Búzios, com o nome Rocka Fish.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Frocka-buzios.jpg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Frocka-buzios.jpg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Frocka-buzios.jpg"/>
-<content:encoded><![CDATA[
-<p>O restaurante Rocka, do chef Gustavo Rinckevich, será reaberto em cerca de dois meses na Praia de Geribá, em Búzios, com o nome Rocka Fish.</p>
-<p>O fechamento do Rocka ocorreu em julho deste ano, após uma disputa judicial de mais de dez anos com o Ministério Público Federal (MPF), que considerava irregular o funcionamento do quiosque na Praia Brava. O restaurante funcionou por 17 anos antes de encerrar as atividades.</p>
-<p>Enquanto o antigo Rocka ocupava uma área de cerca de 300 metros quadrados na Praia Brava, o novo Rocka Fish terá um espaço quatro vezes maior. A estrutura contará com 15 ombrelones na areia, 25 lounges, 80 lugares sentados e um quiosque exclusivo para a venda de açaí e outras opções voltadas ao público da praia.</p>
-<p>O cardápio manterá os pratos que marcaram a história do Rocka em Búzios, mas ganhará novas opções. Além dos clássicos da casa, o restaurante passará a oferecer sanduíches, empanadas, hambúrgueres e petiscos de praia.</p>
+<p>O treinador do Botafogo afirmou que a equipe não tem condições reais de disputar o título do Campeonato Brasileiro neste ano.</p>
+<p>Em entrevista coletiva realizada nesta quarta-feira, no Espaço Lonier, centro de treinamento do Botafogo em Vargem Pequena, Zona Sudoeste do Rio de Janeiro, o técnico Franclim Carvalho foi direto ao afirmar que o clube não está na briga pelo título do Brasileirão 2026.</p>
+<p>O treinador destacou que, apesar do desejo dos torcedores, a equipe está muito atrás na tabela. "Os torcedores gostariam que eu dissesse que temos que pensar no título, mas já estamos 20 rodadas atrás. Não adianta olhar para a tabela, mas sim fazer as nossas contas de três em três jogos", declarou.</p>
+<p>Atualmente, o Botafogo ocupa a 8ª colocação no Campeonato Brasileiro, com 29 pontos somados em 20 partidas disputadas. Restam 18 rodadas, o que significa 54 pontos em disputa até o fim da competição.</p>
+<p>O próximo compromisso do Botafogo será no sábado, contra o Fluminense, em clássico carioca válido pela 22ª rodada do Brasileirão. O jogo será realizado no Estádio Nilton Santos, conhecido como Engenhão, no Rio de Janeiro, às 21h, horário de Brasília.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
