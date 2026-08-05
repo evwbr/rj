@@ -9,81 +9,83 @@
 <atom:link href="https://evwbr.github.io/rj/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rj/</link>
 <description>Notícias do Rio de Janeiro (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Wed, 05 Aug 2026 18:50:15 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 20:49:56 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Fluminense e Vasco se enfrentam no Maracanã pelas oitavas da Copa do Brasil]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_4562ac68f4f76b0a7693773287a69e6dffce1384/</link>
+<title><![CDATA[Peitoral inteligente desenvolvido por alunos do Rio monitora ansiedade em cães]]></title>
+<link>https://evwbr.github.io/rj/p/rjmulti_bcd741159a2dab243f0a7e51efe648856d83c561/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 05 Aug 2026 18:22:31 GMT</pubDate>
+<pubDate>Wed, 05 Aug 2026 20:45:12 GMT</pubDate>
 <category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:4562ac68f4f76b0a7693773287a69e6dffce1384]]></guid>
-<description><![CDATA[Fluminense e Vasco duelam nesta quarta-feira, às 21h30, no Maracanã, pelo jogo de volta das oitavas de final da Copa do Brasil.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Ffluminense-x-vasco.png" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Ffluminense-x-vasco.png" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Ffluminense-x-vasco.png"/>
+<guid isPermaLink="false"><![CDATA[rjmulti:bcd741159a2dab243f0a7e51efe648856d83c561]]></guid>
+<description><![CDATA[Alunos da Escola Técnica Estadual Henrique Lage criaram um peitoral capaz de monitorar sinais de ansiedade em cães e enviar dados para um aplicativo, apresentado no Rio Innovation Week 2026.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FDSC_0483-1024x683.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FDSC_0483-1024x683.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FDSC_0483-1024x683.jpg"/>
 <content:encoded><![CDATA[
-<p>Fluminense e Vasco duelam nesta quarta-feira, às 21h30, no Maracanã, pelo jogo de volta das oitavas de final da Copa do Brasil.</p>
-<p>O clássico entre Fluminense e Vasco, conhecido como Clássico dos Gigantes, tem ganhado intensidade nos últimos anos, tanto entre os times quanto entre as torcidas. A rivalidade tem crescido principalmente pela frequência dos confrontos entre as equipes.</p>
-<p>No último duelo nacional, também pela Copa do Brasil em 2025, o Vasco levou a melhor e avançou para a final do torneio. Já o Fluminense tem a seu favor o título brasileiro de 1984, que é a única vez em que um dos clubes foi campeão sobre o outro em competições nacionais ou internacionais.</p>
-<p>Curiosamente, nos confrontos nacionais e internacionais, há um equilíbrio no número de vezes em que cada time foi superior ao outro. A seguir, a tabela com os principais confrontos, suas fases e os resultados.</p>
-<p>Em 2000, pelas oitavas da Copa do Brasil, houve empate em 1 a 1 no primeiro jogo e 2 a 2 no No Campeonato Brasileiro de 1988, pelas quartas de final, o Fluminense venceu o Vasco por 1 a 0 e 3 a 2, avançando na competição.</p>
+<p>Alunos da Escola Técnica Estadual Henrique Lage criaram um peitoral capaz de monitorar sinais de ansiedade em cães e enviar dados para um aplicativo, apresentado no Rio Innovation Week 2026.</p>
+<p>O projeto consiste em um peitoral inteligente que monitora sinais associados à ansiedade em cães e transmite as informações para um aplicativo acessado pelo tutor.</p>
+<p>Batizado de "Peitoral de Monitoramento e Alívio da Ansiedade em Cães", o equipamento foi criado pelos alunos Caio Dias Arrais e Gabriel Nascimento de Aguiar, sob orientação do professor Altair Martins dos Santos. A iniciativa surgiu para enfrentar situações que afetam o comportamento dos animais, especialmente em ambientes urbanos.</p>
+<p>O peitoral conta com sensores que captam em tempo real parâmetros como frequência cardíaca, movimentação, tremores e níveis de agitação do cão. Esses dados são processados e enviados ao aplicativo, permitindo que o responsável acompanhe o estado do animal e receba alertas em caso de alterações nos sinais monitorados.</p>
+<p>Além da identificação dos sintomas, o projeto inclui uma forma de intervenção: pequenos motores instalados no peitoral produzem vibrações suaves para proporcionar sensação de aconchego ao animal. O acionamento dessas vibrações pode ser feito pelo aplicativo ou recomendado automaticamente pelo sistema com base nas informações captadas.</p>
+<p>Os testes iniciais do equipamento serão realizados em bancada, sem contato com animais, para avaliar o funcionamento dos sensores, a comunicação entre os componentes, o aplicativo e os motores. A etapa com cães só ocorrerá após autorização da Comissão de Ética no Uso de Animais (CEUA), consentimento dos tutores e acompanhamento veterinário.</p>
+<p>O peitoral inteligente demonstra como iniciativas escolares podem ultrapassar o ambiente acadêmico e ganhar espaço em eventos de inovação.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Rio reforça vacinação contra sarampo em aeroportos e rodoviária após casos em São Paulo]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_5521cd7add3f28662914ce1c7fd9851851a7e49c/</link>
+<title><![CDATA[Antônio Carlos Gusmão assume presidência da Comissão Estadual de Controle Ambiental no Rio de Janeiro]]></title>
+<link>https://evwbr.github.io/rj/p/rjmulti_a822a3f4d7ea2b087c153ab171f177f11a24dd2b/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 05 Aug 2026 17:58:08 GMT</pubDate>
+<pubDate>Wed, 05 Aug 2026 20:40:19 GMT</pubDate>
 <category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:5521cd7add3f28662914ce1c7fd9851851a7e49c]]></guid>
-<description><![CDATA[A Secretaria Municipal de Saúde do Rio inicia ação de vacinação nos principais pontos de entrada e saída da cidade para conter o avanço do sarampo.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-11.16.27.jpeg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-11.16.27.jpeg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-11.16.27.jpeg"/>
+<guid isPermaLink="false"><![CDATA[rjmulti:a822a3f4d7ea2b087c153ab171f177f11a24dd2b]]></guid>
+<description><![CDATA[O Governo do Estado do Rio de Janeiro nomeou Antônio Carlos Gusmão para presidir a Comissão Estadual de Controle Ambiental, vinculada à Secretaria de Estado do Ambiente e Sustentabilidade.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAntonio-Carlos-Gusmao-CECA-e1785962285437.jpeg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAntonio-Carlos-Gusmao-CECA-e1785962285437.jpeg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAntonio-Carlos-Gusmao-CECA-e1785962285437.jpeg"/>
 <content:encoded><![CDATA[
-<p>A Secretaria Municipal de Saúde do Rio inicia ação de vacinação nos principais pontos de entrada e saída da cidade para conter o avanço do sarampo.</p>
-<p>O objetivo da iniciativa é ampliar a proteção de pessoas de até 59 anos que estejam viajando para São Paulo ou retornando de outros estados, reduzindo o risco de circulação do vírus na capital fluminense. Paralelamente, a Campanha de Multivacinação continua em todas as unidades de Atenção Primária para atualização das cadernetas de vacinação de crianças e adolescentes.</p>
-<p>O sarampo é uma doença infecciosa altamente contagiosa, que já foi uma das principais causas de mortalidade infantil no mundo.</p>
-<p>Para crianças, a vacina Tríplice Viral, que protege contra sarampo, caxumba e rubéola, é aplicada em duas doses, aos 12 e aos 15 meses. Adolescentes e adultos de até 59 anos que não estejam imunizados também podem receber a vacina, sendo duas doses para quem tem até 29 anos e uma dose para pessoas entre 30 e 59 anos.</p>
-<p>A Campanha de Multivacinação, iniciada na última segunda-feira (3), é uma mobilização para atualizar as cadernetas vacinais de crianças e adolescentes menores de 15 anos. As vacinas estão disponíveis nas 241 unidades de Atenção Primária do município, como clínicas da família e centros municipais de saúde, além das unidades do Super Centro Carioca de Vacinação em Botafogo, aberto diariamente das 8h às 22h, no ParkShoppingCampoGrande, na Zona Oeste, e no Shopping Nova América, na Zona Norte.</p>
-<p>Em 2024, o Brasil confirmou 19 casos de sarampo, sendo 16 no estado de São Paulo: 13 na capital, dois em São Bernardo do Campo e um em Guarulhos. Atenta ao cenário nacional, a Secretaria Municipal de Saúde do Rio enviou comunicado de risco a toda a rede municipal, orientando sobre os sinais e sintomas de alerta para possíveis casos da doença.</p>
+<p>O Governo do Estado do Rio de Janeiro nomeou Antônio Carlos Gusmão para presidir a Comissão Estadual de Controle Ambiental, vinculada à Secretaria de Estado do Ambiente e Sustentabilidade.</p>
+<p>Ao longo da trajetória profissional, Gusmão atuou em diferentes setores dos órgãos ambientais estaduais, incluindo dez anos dedicados ao atendimento de emergências ambientais. Além disso, ele é professor na UniAmbiente, onde contribui para a formação e capacitação técnica de servidores públicos estaduais.</p>
+<p>Sua formação inclui cursos internacionais de controle da poluição realizados no Japão e na Alemanha, o que reforça sua expertise na área ambiental.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Frente Parlamentar realiza audiência pública sobre tarifa zero no Enem e vestibulares no Rio]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_082ae4b0efff5203002b1c0536542456477be099/</link>
+<title><![CDATA[Baleia-franca é flagrada com rede de pesca na cabeça e boca no Arpoador, Rio de Janeiro]]></title>
+<link>https://evwbr.github.io/rj/p/rjmulti_ead4823dee7a07b69885678b6504eac63fd4d348/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 05 Aug 2026 17:50:45 GMT</pubDate>
+<pubDate>Wed, 05 Aug 2026 20:08:45 GMT</pubDate>
 <category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:082ae4b0efff5203002b1c0536542456477be099]]></guid>
-<description><![CDATA[A Frente Parlamentar em Defesa da Tarifa Zero no Enem e nos Vestibulares da Câmara do Rio promove sua primeira audiência pública para discutir a implementação do passe livre nos dias de prova.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2022%2F01%2Fuerj-divulga-notas-do-exame-discursivo-do-vestibular-2020.jpg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2022%2F01%2Fuerj-divulga-notas-do-exame-discursivo-do-vestibular-2020.jpg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2022%2F01%2Fuerj-divulga-notas-do-exame-discursivo-do-vestibular-2020.jpg"/>
+<guid isPermaLink="false"><![CDATA[rjmulti:ead4823dee7a07b69885678b6504eac63fd4d348]]></guid>
+<description><![CDATA[Uma baleia-franca foi registrada nadando ao lado do filhote com uma rede de pesca presa na cabeça e na boca nas águas do Arpoador, na Zona Sul do Rio de Janeiro.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-17.05.58.jpeg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-17.05.58.jpeg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-05-at-17.05.58.jpeg"/>
 <content:encoded><![CDATA[
-<p>A Frente Parlamentar em Defesa da Tarifa Zero no Enem e nos Vestibulares da Câmara do Rio promove sua primeira audiência pública para discutir a implementação do passe livre nos dias de prova.</p>
-<p>A audiência pública será realizada nesta quarta-feira (5), às 18h, no Salão Nobre do Palácio Pedro Ernesto. O encontro reunirá representantes da prefeitura, cursinhos pré-vestibulares populares, coletivos educacionais e entidades estudantis importantes, como a União Nacional dos Estudantes (UNE), a União Brasileira dos Estudantes Secundaristas (UBES) e a União Estadual dos Estudantes do Rio de Janeiro (UEE-RJ).</p>
-<p>A vereadora Maíra destacou a importância da medida para jovens que moram em favelas, periferias e municípios afastados.</p>
-<p>Levantamentos do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) já indicavam a gravidade do problema: no Enem 2023, dos 117 mil inscritos no município do Rio, mais de 37 mil não compareceram às provas, o que representa uma abstenção de quase 32%. Os dados também mostram que mais da metade dos inscritos pertencia a famílias com renda de até dois salários mínimos, e cerca de metade se declarava preta ou parda.</p>
+<p>Uma baleia-franca foi registrada nadando ao lado do filhote com uma rede de pesca presa na cabeça e na boca nas águas do Arpoador, na Zona Sul do Rio de Janeiro.</p>
+<p>A fotógrafa Emma Monteiro da Rocha capturou a imagem durante um passeio de observação de baleias a bordo de um veleiro.</p>
+<p>Esse comportamento costeiro contribuiu para que a espécie fosse intensamente caçada no passado, o que explica sua condição de vulnerabilidade até os dias atuais. Durante o inverno e a primavera, as baleias-francas migram para a costa brasileira em busca de áreas adequadas para reprodução, concentrando-se principalmente no litoral de Santa Catarina.</p>
+<p>A presença desses animais na costa do Rio de Janeiro é considerada incomum. Enquanto a baleia-franca aparece raramente no estado, as baleias-jubarte já fazem parte da paisagem do litoral fluminense nesta época do ano.</p>
+<p>Com a chegada do inverno, as jubartes voltam a ser vistas próximas à costa, atraindo a atenção de moradores, turistas e embarcações dedicadas ao turismo de observação. A passagem das jubartes pelo Rio de Janeiro integra uma das maiores migrações do planeta.</p>
+<p>Esses animais deixam as águas geladas da Antártida e percorrem cerca de 9 mil quilômetros até o Arquipélago de Abrolhos, no sul da Bahia, onde encontram condições favoráveis para acasalamento e nascimento dos filhotes. Embora o litoral fluminense não seja o destino final dessa viagem, ele desempenha papel fundamental como corredor migratório.</p>
+<p>Todos os anos, milhares de baleias atravessam a costa do estado durante o deslocamento, tornando o Rio de Janeiro um dos principais pontos de observação da espécie no país. A localização estratégica da costa fluminense permite acompanhar a passagem das baleias sem interferir em sua rota migratória, proporcionando um espetáculo natural que se repete a cada temporada de inverno.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Hoobastank fará show no Rock Festival Nova Iguaçu em novembro de 2026]]></title>
-<link>https://evwbr.github.io/rj/p/rjmulti_86749e88f0c1b2066cff5d39a291a7f4b9ed6171/</link>
+<title><![CDATA[Rocka Fish será inaugurado em Geribá com espaço quatro vezes maior que o antigo Rocka]]></title>
+<link>https://evwbr.github.io/rj/p/rjmulti_6ccf7e6487591fe61c3afb9d5d8818234e8d5ee2/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 05 Aug 2026 17:31:20 GMT</pubDate>
+<pubDate>Wed, 05 Aug 2026 17:35:21 GMT</pubDate>
 <category><![CDATA[Rio de Janeiro]]></category>
-<guid isPermaLink="false"><![CDATA[rjmulti:86749e88f0c1b2066cff5d39a291a7f4b9ed6171]]></guid>
-<description><![CDATA[A banda norte-americana Hoobastank se apresenta no Rock Festival Nova Iguaçu, na Baixada Fluminense, no dia 8 de novembro de 2026.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fhoobastank-3.jpg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fhoobastank-3.jpg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fhoobastank-3.jpg"/>
+<guid isPermaLink="false"><![CDATA[rjmulti:6ccf7e6487591fe61c3afb9d5d8818234e8d5ee2]]></guid>
+<description><![CDATA[O restaurante Rocka, do chef Gustavo Rinckevich, será reaberto em cerca de dois meses na Praia de Geribá, em Búzios, com o nome Rocka Fish.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Frocka-buzios.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Frocka-buzios.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fdiariodorio.com%2Fwp-content%2Fuploads%2F2026%2F08%2Frocka-buzios.jpg"/>
 <content:encoded><![CDATA[
-<p>A banda norte-americana Hoobastank se apresenta no Rock Festival Nova Iguaçu, na Baixada Fluminense, no dia 8 de novembro de 2026.</p>
-<p>O show acontecerá no Espaço de Eventos da Dutra, localizado na Rodovia Presidente Dutra, 14.000, Jardim Tropical, em Nova Iguaçu. O grupo é a primeira atração confirmada para o evento, que integra o calendário de festivais de rock da região.</p>
-<p>Em dezembro de 2026, mais precisamente no dia 9, o Hoobastank fará uma apresentação no Carioca Club, em São Paulo, encerrando a série de shows no país.</p>
-<p>Os horários das apresentações ainda serão divulgados, e a venda de ingressos para o Rock Festival Nova Iguaçu será anunciada em breve.</p>
+<p>O restaurante Rocka, do chef Gustavo Rinckevich, será reaberto em cerca de dois meses na Praia de Geribá, em Búzios, com o nome Rocka Fish.</p>
+<p>O fechamento do Rocka ocorreu em julho deste ano, após uma disputa judicial de mais de dez anos com o Ministério Público Federal (MPF), que considerava irregular o funcionamento do quiosque na Praia Brava. O restaurante funcionou por 17 anos antes de encerrar as atividades.</p>
+<p>Enquanto o antigo Rocka ocupava uma área de cerca de 300 metros quadrados na Praia Brava, o novo Rocka Fish terá um espaço quatro vezes maior. A estrutura contará com 15 ombrelones na areia, 25 lounges, 80 lugares sentados e um quiosque exclusivo para a venda de açaí e outras opções voltadas ao público da praia.</p>
+<p>O cardápio manterá os pratos que marcaram a história do Rocka em Búzios, mas ganhará novas opções. Além dos clássicos da casa, o restaurante passará a oferecer sanduíches, empanadas, hambúrgueres e petiscos de praia.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
